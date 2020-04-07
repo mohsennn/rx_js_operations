@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "concat": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "concat"
+    }
+  },
+  "defaultProject": "concat",
+  "cli": {
+    "analytics": "742942c4-5897-496f-b3f8-0097d6343e7c"
+  }
 }
